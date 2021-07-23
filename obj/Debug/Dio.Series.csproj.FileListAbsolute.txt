@@ -1,0 +1,7 @@
+C:\Users\Davidson Santos\source\repos\Dio.Series\Dio.Series\bin\Debug\Dio.Series.exe.config
+C:\Users\Davidson Santos\source\repos\Dio.Series\Dio.Series\bin\Debug\Dio.Series.exe
+C:\Users\Davidson Santos\source\repos\Dio.Series\Dio.Series\bin\Debug\Dio.Series.pdb
+C:\Users\Davidson Santos\source\repos\Dio.Series\Dio.Series\obj\Debug\Dio.Series.csproj.AssemblyReference.cache
+C:\Users\Davidson Santos\source\repos\Dio.Series\Dio.Series\obj\Debug\Dio.Series.csproj.CoreCompileInputs.cache
+C:\Users\Davidson Santos\source\repos\Dio.Series\Dio.Series\obj\Debug\Dio.Series.exe
+C:\Users\Davidson Santos\source\repos\Dio.Series\Dio.Series\obj\Debug\Dio.Series.pdb
